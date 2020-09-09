@@ -1,0 +1,43 @@
+Phones for low-income users hacked before they're turned on, research finds
+
+Endless pop-up ads siphon off data paid for with federal subsidies in the Lifeline program, researchers found.
+
+Rameez Anwar's phone had serious problems. The device, paid for by the federally funded Lifeline program for low-income people, was overrun with pop-up ads that made it unusable. Despite multiple factory resets, the problem wouldn't go away. 
+"As soon as it detected internet," Anwar said, "it started doing the pop-ups." 
+Anwar, who says he's tinkered with computers since childhood, suspected the phone had come with malware installed. So he sent it to Nathan Collier, a researcher at Malwarebytes. 
+Collier 
+: The phone's settings and update apps contained code that allowed them to load malicious apps known as adware. The adware displayed ads that covered users' screens, no matter what they were doing on their phones.
+Adware isn't a problem just for Anwar and other users who have the same phone model, made by American Network Solutions. Because the phones and their service plans were subsidized by a US program, taxpayers were funding the data that was used to display the promotional campaigns. On top of that, the adware prevented the phones doing their intended job: 
+ via phone and internet.
+Evidence suggests pre-installed malware plagues inexpensive phones around the world. Earlier this year, Collier 
+ made by Unimax and distributed by the Lifeline program. Collier says he frequently sees similar malware on cheap phones outside the Lifeline program. A BuzzFeed investigation found inexpensive phones popular in African countries 
+. 
+Unimax 
+ in January that it had created a security patch to fix a vulnerability in its settings app. However, it disagreed with Malwarebytes that the vulnerability in the app qualified as "malware." American Network Solutions couldn't be reached for comment.
+By making phones essentially unusable, adware puts low-income people at risk of being cut off from the world, which is especially troubling during the coronavirus pandemic. Families are struggling to 
+. Low-income 
+ to stay connected to doctors who can't see them in person and apply for benefits. In California, about 14,000 people living alone in hotel rooms 
+ after being evacuated from homeless shelters.
+"Their way to connect to the world and the internet is through phones," Collier said. 
+When looking at Anwar's phone, Collier found the settings app and the update app could covertly install third-party software on the user's phone. Users can't uninstall either app without making the devices unusable. 
+Collier found a way 
+ without completely uninstalling the apps, but it requires users to connect their phones to a laptop and run specialty software. For people in the Lifeline program, a laptop might not be available, and the instructions might be challenging for people without training.
+Collier found the update app was installing four different versions of adware, which may be why Anwar found the ads overwhelmed his device completely. 
+In response to a request for comment, Anwar's carrier, 
+, referred CNET to phone maker Unimax's statement in January. It also supplied a letter it sent to US Sens. Richard Blumenthal of Connecticut and Ron Wyden in response to questions the senators asked them about the Malwarebytes findings. In the letter, the company repeated Unimax's assertion that code in the apps amounted to a "security vulnerability" and was not malware. 
+"It appears that Malwarebytes was incorrectly identifying legitimate functions as malware," the company said in its letter.
+Assurance Wireless didn't supply a specific response to the more recent findings about the phone made by American Network Solutions. Because the code Malwarebytes identified can let the settings and update apps surreptitiously load unwanted adware, the researchers have stood by their finding that the apps contain malware.
+The Lifeline program is overseen by the FCC. The phone service providers typically either function as subsidiaries of big names phone carriers or run their service through the big carriers' networks. Assurance Wireless is a division of T-Mobile. 
+Collier said he doesn't know how the malicious code gets onto the phone because third parties could have access to the phone's software at various points in the manufacturing process. He added he has no way of knowing whether either phone maker or the carriers had any knowledge of the problems before Malwarebytes made its findings public. 
+Budget phone makers typically use premade software from Android for apps that control settings and updates. It would be illegal for the phone manufacturer to tweak those apps to allow for the secret installation of adware because they would be making money from ad impressions and clicks made possible by Lifeline funds. 
+"It is 
+ that Lifeline funds are prohibited from supporting the cost of the handset or any other end-user device or software," an FCC spokesperson said in a statement. "The security of Americans' cell phones is critical, and the FCC urges Lifeline providers to protect consumers from adware and malware." 
+The agency declined to answer a question about whether it's investigating the Malwarebytes findings on either phone model.
+It's entirely possible phone manufacturers aren't aware of the malicious capabilities of the phones before they go out to users. Instead, thin margins on the devices could lead phone makers to review the software on their phones less thoroughly than a name brand would, said 
+, a mobile analyst at Strategic Analytics.
+Hyers, who wasn't involved in the Malwarebytes research, said he could only speculate about how malicious code got onto the apps. A plausible place for it to happen, he said, would be what's called a software review house -- a third-party service that reviews code for phone makers before it gets installed onto devices. 
+Someone working in the review house could slip the malicious code into the apps, Hyers said.
+"Unless they were compared line by line with the code sent out to the testing house," he said. "you wouldn't find it."
+Anwar, 37, said he works a low-wage job and lives with roommates in Virginia. He hasn't ordered a new device through the Lifeline program. Instead, he's using a phone he received as a gift, and a friend is paying the monthly fees.
+He hopes that donating his Lifeline phone to Malwarebytes will help bring attention to the problem for other Lifeline users. Phones aren't a luxury, he said. Everyone needs a phone to apply for jobs, call 911, contact doctors and stay in touch with loved ones.
+"Every single user of cell phones deserves the right to have unobstructed phone call and text message access," he said.

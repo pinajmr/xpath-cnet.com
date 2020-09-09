@@ -1,0 +1,39 @@
+Samsung Galaxy Tab S7 Plus wants to work hard and play games
+
+We went hands-on with Samsung's newest tablet. With a new keyboard, enhanced office tools and 5G support, the Galaxy Tab S7 line makes a good alternative to the iPad Pro or even your main laptop.
+
+It's still amazing to me how adding just the right keyboard, touchpad and kickstand can transform a tablet into a laptop. We've seen it before in the 
+ and Microsoft Surface, as everyone competes to become the next great evolution of the personal computer. Now 
+ is leaning heavily in the same direction with the 
+, both announced at this week's 
+.  
+These two new slate-style 
+ run Android, unlike the 
+ (iPadOS) and Surface (Windows 10), and normally I'd find that the least laptop-like of these experiences. But the Tab S7 adds a new (yes, sold separately) clip-on keyboard with a distinctly laptop-like vibe.  
+The Book Cover Keyboard adds a larger touchpad, still not as big as your average laptop, but very usable. Along with this are multitouch touchpad gestures, which feel very Mac-like (if I'm feeling generous) or perhaps Windows-like (if I'm not). In the early hardware I've been testing, only a couple of gestures are supported, including two-finger scrolling and an assignable three-finger tap command, which can be set to do things like go back one step or open the app menu.  
+The keyboard itself is on par with most Surface keyboards I've tried. It's very stiff and provides a solid typing surface, with decent size keys that have a satisfying clack to them. A function key row sits at the very top, again a nod to the laptop-like nature of this product. The biggest downside so far is the lack of an adjustable keyboard angle. Whereas the Surface clip-on keyboards can be propped up at the rear thanks to magnets, this keyboard can only sit flat on the table. 
+The keyboard comes bundled with a magnetic back cover, which includes a kickstand and a pocket for the S-Pen stylus. At least the S-Pen is included in the box with the Tab S7 itself (note to 
+ and 
+), and works well for both sketching and note-taking.  
+Just as with the S-Pen on the Note 
+, the stylus here can control system functions through a series of somewhat opaque gesture controls, but you're most likely to just use the side button on the S-Pen as a remote shutter control for the camera.  
+In the larger 12.4-inch Tab S7 Plus model I've been test-driving, the AMOLED screen pops with great color and contrast. I've been spoiled by OLED 
+ and the rare OLED laptop, so for me that's a must-have for a high-end device. It's a 120Hz screen, which is nice to have (for smoother visuals), but even more important is the promise of variable refresh rate. If an app, video or game doesn't need 120Hz, it can drop the refresh rate to match and probably save you some battery life.  
+The Tab S7 promises quad speakers for great sound, but there's only so much tiny tablet speakers can do. Audio is acceptable but not amazing.  
+Remember DeX, Samsung's special platform for making your Android device feel like a computer? No, you probably don't, but different versions of it have allowed Samsung phones to add a keyboard and mouse, and let users open and rearrange multiple windows on the PC-like desktop.  
+Fire DeX up on the Tab S7, with the keyboard attached, and you get a remarkably laptop-like experience. Open multiple apps, resize them in different windows, minimize everything down to the taskbar. It's a much more familiar-feeling experience for laptoppers than even the latest iPad with keyboard and touchpad support.  
+That said, you're still running Android apps, and that may not get you the productivity you need. Much about the platform is unintuitive, although you figure most of it out with trial and error. One new DeX trick is pretty clever -- the ability to wirelessly throw your DeX desktop to another display or even a TV. It works with most smart TVs, and I was able to easily connect via my 
+ set and also the Nvidia Shield set-top box attached to it. 
+Cloud gaming is still a work in progress, even a decade after we first started playing around with it. Besides 
+ Stadia and 
+ GeForce Now, the other big potential player right now is Microsoft xCloud. A bit like Netflix, cloud gaming services store and play games on remote computers (server-side, as they say) and beam the result to your screen.  
+Sounds great, right? Play any game on any screen, totally device-agnostic. Of course, there's a reason we still have big gaming PCs, and new 
+ are coming later this year. When you game from the cloud, your controller has to send instructions upstream, wait for the result, then beam the resulting video back to you. That adds milliseconds of delay that can get much worse with any suboptimal internet traffic.  
+All that said, the beta version of xCloud works just fine on the Tab S7 (and Samsung is touting it for the Galaxy Note 20, too). If you're in the beta, you can try it on other Android devices as well, and Microsoft says xCloud will merge with Xbox Game Pass Unlimited in September. (For Note 20 preorders, 
+ and a third-party Xbox game pad.) 
+I played a little Gears 5 and a few other games on the Tab S7 Plus via xCloud. Pairing a standard Xbox controller via 
+ was easy, but my signal occasionally got choppy, with lots of screen artifacts. That's just cloud gaming right now, not something specific to this device. All that said, I still have high hopes for the future of cloud gaming, including xCloud.  
+Like the Tab S6 before it, we can say the Tab S7 seems to be about as good as an Android tablet gets right now. But is that enough? After a few early years of tighter competition, Apple's iPad and iPad Pro have become the default tablet by a mile, with the 
+ line picking up a lot of the budget end.  
+The hardware I've been using works fine, and the display is a high point. Android's current monopoly on xCloud is another point in its favor, and probably more compelling for gamers than Apple Arcade. I'm unlikely to become a DeX regular, but it's evolved over the years to something I could use for "real" office work in a pinch.  
+But you'll have to wait to find out for yourself. The S7 Plus I have here is a prerelease model, so I'm not posting benchmark scores until I get the final hardware. That might be some time away, as Samsung will only say that the S7 and S7 Plus   are both coming in the fall, starting at $649 (£619) for Galaxy Tab S7 and $849 (£799) for Galaxy Tab S7 Plus.  

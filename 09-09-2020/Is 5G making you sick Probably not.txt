@@ -1,0 +1,93 @@
+Is 5G making you sick? Probably not
+
+The rollout of 5G using super high-frequency radio airwaves has ignited old fears about cellphone radiation risks, with the coronavirus conspiracy theories being the latest wrinkle.
+
+False conspiracy theories about links between 5G wireless networks and the origins of the coronavirus have been circulating widely online. The 
+ is that somehow the radio waves used to transmit 5G either caused the virus or weakens the immune system, making one more susceptible to COVID-19.
+It does not. 
+But that hasn't stopped 
+ and 
+. Government officials there called the notion a 
+." In the US, the Federal Emergency Management Agency put out a statement 
+ stating: "5G technology does NOT cause coronavirus." 
+This is just the latest in a long line of claims and suspicions that 5G, which promises lightning-fast speeds and the ability to power new technologies like self-driving cars, can somehow harm people's health. Concerns about 5G's effects on health were spreading even before coronavirus. 
+Consumers for years have been anxious about 
+ in everything from 
+ to 
+, prodded by claims that radio airwaves cause brain cancer, reduced fertility, headaches in children and other illnesses.
+Experts say that while more study on the wavelengths used by 5G would be helpful, there is nothing so far that suggests people should be concerned. 
+The latest biological research looking at potential effects of 5G radiation found no link between the technology and your health.
+"Based on our study, we don't think 5G radiation is that harmful," said Subham Dasgupta, a postdoctoral fellow at Oregon State University, which 
+ from a study into the effects of 5G radiation on zebrafish. "It's predominately benign."
+Radiation is the emission of energy from any source. That means that even heat that comes from your body counts as radiation. But some forms of radiation can make you sick.  
+We can organize types of radiation by their levels of power on the electromagnetic spectrum. Bigger wavelengths with lower frequency are less powerful, while smaller wavelengths at higher frequencies are more powerful. This spectrum is divided into two distinct categories: ionizing and non-ionizing. 
+Ionizing radiation, which includes ultraviolet rays, X-rays and gamma rays, are the harmful forms. The energy from ionizing radiation can pull apart atoms and it's known to break the chemical bonds in 
+, which can damage cells and cause cancer. This is why the FDA warns against having unnecessary X-rays. It's also why exposure to the sun can cause skin cancer.
+Non-ionizing radiation has lower frequencies and bigger wavelengths. It doesn't produce enough energy to break apart the chemical bonds of DNA. Examples include radio frequency, or RF, radiation such as FM radio, TV signals and cellphones that use traditional 3G and 4G service. 
+Microwave and millimeter wavelength radiation, which is one of the key blocks of spectrum that 5G service will use, is also considered non-ionizing (as is visible light) and doesn't produce the kind of energy that directly damages cells. Common devices, such as Wi-Fi routers, garage door openers, airport security scanners and walkie-talkies, use lower-frequency microwaves.
+It's 
+. Some experts suspect that the radiation from these devices could damage cells via another biological mechanism, such as 
+ in cells, which leads to inflammation and has been found to cause cancer, diabetes and cardiovascular, neurological and pulmonary diseases. Out of the thousands of studies that have been conducted over the past two decades, the results are mixed. Most of the studies published so far on the use of traditional cellphone service in the RF range haven't found a link with the development of tumors, 
+. 
+But the group concedes that the majority of these studies had significant limitations, which leaves some doubt. 
+Still, neither the Environmental Protection Agency nor the National Toxicology Program has formally classified RF radiation as cause of cancer. But in 2011 the World Health Organization's International Agency for Research on Cancer classified RF radiation as "possibly carcinogenic to humans" after studies suggested links to a specific type of brain tumor. But the agency also acknowledged that the evidence is limited. 
+Just for reference, coffee and pickled vegetables are in the same "possibly carcinogenic" category as RF.  
+"There is some evidence from epidemiological studies and other research on the biological effects that electromagnetic radiation could cause cancer," said Jonathan Samet, a pulmonary physician and epidemiologist and the dean of the Colorado School of Public Health, who chaired the IARC's committee in 2011. "But the whole body of evidence is not strong." 
+As a result, the committee couldn't say for certain that cellphones are safe, but it couldn't say they're unsafe, either. Samet said more high-quality research is needed on how non-ionizing radiation, such as RF, might cause changes in cells.
+In July researchers at 
+ in which they exposed embryonic zebrafish to 3.5 GHz radio frequency radiation and they found no significant impact on mortality or how the embryos formed. It turns out zebrafish react surprisingly similarly to human cells and are often used to discover interactions between environmental stressors and biological systems.
+Future research will look at potential effects at the gene level on the same zebrafish exposed to 5G radiation, one of the lead researchers said. The researchers also would like to study the impacts of higher frequencies and higher exposure levels on zebrafish to keep pace with the changing cell phone industry.
+This was just one study, so you can't say definitively based on this single study. Researchers agree more research is needed. 
+The concerns about 5G are similar to the concerns about 2G, 3G and 4G, the earlier generations of wireless service. In fact, 5G in the US is expected to use some of the same frequency bands that previous generations of wireless have used, including low-band 600MHz frequencies as well as midband spectrum in the 2.5GHz, 3.5GHz and 3.7GHz-4.2GHz bands. But operators, such as AT&T and Verizon, are also targeting higher frequency bands for 5G. The FCC has already auctioned off airwaves in the 24GHz and 28GHz bands. Later this year, it'll auction off licenses in the 37GHz, 39GHz and 47GHz bands. 
+It's this so-called "high band" spectrum that's of most concern, because it'll require denser radio deployments. There's also less research on the effects of radiation at these higher frequency bands. That said, these high-band frequencies are still non-ionizing. As stated earlier, non-ionizing radiation doesn't have enough energy to break apart DNA and directly cause changes to cells that could lead to cancer.
+There are also additional concerns specific to 5G, due to the super high-frequency millimeter wavelengths used. Because signals transmitted over millimeter waves are limited in range and can't penetrate obstacles like walls or even leaves on trees, networks using these frequencies will require radios on every city block, versus 4G gear that transmits signals over miles. 
+This means that 5G will require up to five times the amount of infrastructure as 3G or 4G deployments. Not only will there be more 5G radios transmitting signals, but the radios will have to be closer to you. 
+The sheer volume of devices transmitting signals so close to people is what concerns activists and lawmakers like Rep. Thomas Suozzi, a Democrat from New York.  
+"Small cell towers are being installed in residential neighborhoods in close proximity to houses throughout my district," he said in a 
+ last year. "I have heard instances of these antennae being installed on light poles directly outside the window of a young child's bedroom. Rightly so, my constituents are worried that should this technology be proven hazardous in the future, the health of their families and value of their properties would be at serious risk."
+There is 
+, which spreads from person-to-person contact, and 5G. Viruses of any kind don't transmit via radio waves. You can't get it from using your phone or watching TV -- unless the phone itself or the remote control is contaminated with coronavirus. Other coronaviruses include SARS and MERS. It's believed that the virus originated from an animal and mutated so that it was able to infect humans.  
+Some of the conspiracy theories that have circulated via social media about 5G causing COVID-19 stem from the fact that 5G is being deployed in China and the virus was first detected in the Chinese city of Wuhan late last year. In mid-March, the World Health Organization labeled the coronavirus outbreak a 
+ and the virus' spread has caused countries around the world, including the US, to take drastic measures like lockdowns.
+But aside from the obvious absurdity that the virus spreads via radio frequencies, making any link between 5G and COVID-19 makes no sense given that the technology was actually first deployed in South Korea and parts of the US. The US had not seen major COVID-19 outbreaks until months after cases appeared in China. What's more, COVID-19 also has spread to areas without any 5G towers, like Iran and Japan. 
+"This story about 5G has no credence scientifically and is certainly a potential distraction, as is other such misinformation, from controlling the COVID-19 epidemic," said Samet, dean of the Colorado School of Public Health. 
+Activists point to research that they say shows cellphone radiation affects human health and they want 5G deployments halted until the safety of these devices can be determined. 
+Martin Pall, a professor emeritus of biochemistry and basic medical sciences at Washington State University, says the evidence is clear that cellphone radiation is dangerous. He says results from existing studies show clear links between cellphone radiation and a wide range of medical maladies from cancer to infertility to depression. 
+"What we're doing is destroying our health," Pall said in an interview. He added that if 5G deployments aren't stopped, "we [as a society] are playing around with our very survival."  
+Pall isn't alone in this thinking. Social media and other online forums are filled with similar predictions. A November 2018 post on Facebook that went viral blamed the 
+ in the Netherlands on 5G testing. (The test actually took place months earlier.) There's also lots of talk in these forums about the phone industry trying to suppress data about the dangers of cellphone radiation. Forum participants say the same deceptive tactics used by the tobacco industry to hide the dangers of cigarette smoking are being used by the wireless industry. 
+Though conspiracy theories around cellphone safety have existed for years, they've gotten more attention lately with the hype about 5G.  A 
+ noted that the Russian propaganda network RT America has been at the forefront of running stories about harm from 5G. 
+Community groups, like the Oakmore Neighborhood Advocacy Group in the San Francisco Bay Area, have cited some of the arguments presented by Pall and others during city council meetings and other community forums while speaking out against the deployment of 5G in their neighborhoods. 
+Lawmakers on Capitol Hill have taken notice. 
+ and several Democrats in the House of Representatives, including 
+, are demanding the FCC demonstrate that 5G is safe. 
+When it comes to 5G and COVID-19, the evidence is crystal clear. There's absolutely nothing to these conspiracy theories. 
+"It's a ridiculous concept," said John Bucher, a senior scientist with the National Toxicology Program, a US Health and Human Services interagency program dedicated to testing and evaluating substances in our environment. "Each year, you get a new strain of flu that goes around. That's what viruses do -- mutate and move around that way, probably as long as there's been life." 
+As for other health concerns, the answer isn't as clearcut. But it's unlikely that 5G poses any significant risk.
+Experts such as Kenneth Foster, a professor of bioengineering at the University of Pennsylvania, who has been studying the health effects of radio-frequency energy for nearly 50 years, says that Pall and other 5G activists have been cherry-picking findings from studies that support their views while ignoring other research that contradicts or finds no link between cellphone radiation and health hazards. 
+Foster, who sits on the IEEE's standards committee for setting radio-frequency exposure limits, acknowledges that unlike at 3G and 4G radiation levels, which have been studied for at least two decades, there isn't as much research on the biological effects of using millimeter wavelengths for 5G service. 
+Samet, who chaired the WHO's 2011 committee on cellphone radiation, said it's still too early to know based on population studies if cellphone radiation causes tumor growth in humans. He said that it took at least 20 to 25 years after cigarettes began being mass produced for epidemiologists to notice the link between lung cancer and smoking tobacco. Since widespread cellphone use is relatively recent, we could still be a number of years away before we'd see an epidemic of cancer due to cellphone radiation exposure, he said.
+The Department of Defense sponsored some studies in the late 1990s and early 2000s looking at the use of millimeter wavelengths as a non-lethal weapon. 
+The "
+" technology that the military employs uses very high-frequency millimeter wavelengths, above 94GHz, to produce an intense burning sensation that barely penetrates the skin and stops when the transmitter is switched off or when the individual moves out of the beam. 
+The IEEE and the International Commission on Non-Ionizing Radiation Protection   have used this research to set safety limits for the use of 5G millimeter wave, which are well below these levels, Foster said.
+Last year, the FCC 
+ or how it evaluates those limits for mobile device use. This decision took into account more than six years of public input and review of evidence to conclude that the limits set more than two decades ago were safe.  
+The agency said it made its decision in consultation with the federal Food and Drug Administration and other health agencies. 
+ "The available scientific evidence to date does not support adverse health effects in humans due to exposures at or under the current limits" Jeffrey Shuren, Director of the Food and Drug Administration's Center for Devices and Radiological Health, wrote to the FCC in August last year. "No changes to the current standards are warranted at this time."
+The FCC voted unanimously in December to keep the current standards for all forms of wireless technology, including 5G.  FCC officials told reporters during a press briefing that there's "nothing special about 5G." They added that the scientific evidence to date indicates that 5G is no different from any other cellular technology, including 4G or 3G in terms of causing health effects. 
+They also added that the higher-frequency signals used to deliver 5G also pose no health risk and that the existing RF exposure guidelines are still applicable to 5G, regardless of the spectrum band used to deliver the service.  
+But not everyone agrees that the FCC's standards are safe.  In June, more than 400 medical and public health professionals 
+ stating that the FCC "completely ignores the documented adverse health effects that can occur at the FCC's current radiofrequency (RF) exposure limits, much less those that may occur at the expanded range of frequencies contemplated in the proposed rule."
+It's important to note that no medical associations signed the letter nor have they submitted comments on the FCC's decision. 
+Previously, FCC Chairman Ajit Pai has stated that the agency places a "high priority on the safety of wireless services and devices." He said the agency's guidelines for RF exposure are derived from guidance from the EPA, as well as the IEEE, the International Commission on Non-Ionizing Radiation Protection and the National Council on Radiation Protection and Measurements.
+"The FCC relies on the expertise of health and safety agencies and organizations with respect to appropriate levels of RF exposure," he said. "These institutions have extensive experience and knowledge in RF-related issues and have spent a considerable amount of time evaluating published scientific studies that can inform appropriate exposure limits."
+Many local governments, including several in the San Francisco Bay Area and other parts of the country, are trying to stop the 5G rollout, insisting that companies prove the technology isn't harmful to people. But the Telecom Act of 1996 
+ as a reason to block cellphone deployment. 
+Foster said that so long as equipment makers comply with the FCC's safety standards, the agency can't stop deployment of 5G. And he argued there's a good reason for that.
+"The regulatory system requires manufacturers of RF-emitting equipment verify compliance with FCC safety limits, not directly conduct toxicity studies," he said. "If this were done consistently for all newly introduced devices, it would basically stop any new RF products."
+In the first six months of 2019 alone, the FCC approved more than 21,000 RF-emitting devices across the entire frequency range. 
+"None of these, I assume, have been subjected to comprehensive toxicity testing," he said. "But all had to be shown to comply with FCC safety limits together with many other regulations."
+According to expert agencies and the studies conducted so far, there's nothing to suggest 5G millimeter wave is a significant health risk. But most experts say more quality research is needed. 
+"Everybody, including me, seems to be calling for more research on possible bioeffects of 5G," Foster said. "But what we don't need is more fishing expeditions and cherry-picking of the literature. We need more systematic reviews of the existing research and more well-done studies focusing on health-related endpoints."

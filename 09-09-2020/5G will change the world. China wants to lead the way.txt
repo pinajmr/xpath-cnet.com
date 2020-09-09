@@ -1,0 +1,78 @@
+5G will change the world. China wants to lead the way
+
+China isn't the only country jockeying for control. The US dominated 4G's expansion and expects to do the same now.
+
+China is moving full steam ahead on 5G, barely slowed down by a pandemic that has ravaged the world. This is setting up a race between the nation and the US, which led the way with 4G cellular technology and wants to keep its pole position in this next generation. 
+5G is the next generation of wireless technology rolling out across the world, promising to deliver much faster wireless service and a more responsive network. It's ability to connect more devices and offer real-time feedback is expected to spark a sea change in how we live and work, ushering in new advances like 
+ to advanced augmented reality experiences.
+The country that leads in the deployment of 5G could gain an edge in rolling out these future technologies. And just as the US benefited from the crop of services and businesses that emerged from 4G -- think everything from livestreaming on Facebook to ride-sharing services like Uber -- many believe 5G will spark a similar renaissance of new businesses.
+There's another reason why both China and the US are eager to lead in this area -- any work on 5G will contribute to countries controlling key intellectual property that will influence the development of future wireless technologies.
+2020 was 
+. But the spread of the novel coronavirus has caused some to wonder if the technology will get off the ground this year. The new 
+, which causes an illness called COVID-19, first emerged in Wuhan, China, late last year. It's since grown into a full-blown pandemic, infecting 
+, 3 million of whom are in the US. The outbreak has caused lockdowns in cities across the globe, forcing businesses to close and citizens to be shut in their homes for weeks and months. 
+But when it comes to 5G, China keeps chugging along. It was the first country hit by the coronavirus, but it has largely recovered, with people back to work and 5G network deployments continuing. Network equipment maker Ericsson, in its 
+, actually raised its estimate for 5G subscriptions from China even as it downgraded the numbers for North America and Western Europe. A majority of the 5G subscriptions this year will come from China, the company said. 
+The White House has reportedly 
+, offering tax breaks and looking to US companies to bolster their own 5G efforts. President Donald Trump's administration has also tried to put the brakes on China's 5G ambitions, mostly through curtailing Huawei, the world's leading supplier of 5G equipment. US officials have long worried that Huawei gear could be used to spy on US citizens and its allies. 
+But the government's latest moves could backfire and severely hobble the worldwide 5G global supply chain, also slowing US deployment and possibly fragmenting the market. 
+Here's a breakdown of what's going on. 
+Each of the major US wireless carriers is deploying 5G across the US in various cities. 
+Much of this work began in 2019, but things were supposed to really ramp up in 2020. Then the coronavirus pandemic hit. Executives from AT&T, Verizon and T-Mobile each noted in their first-quarter earnings calls this spring that they had experienced some disruption in deployment, but they assured investors they were confident in their 5G deployments. 
+Still, it's unclear how the pandemic will affect deployments as cases of the virus continue to surge and states and localities consider lockdowns. One big risk is navigating the local bureaucracies to get small cell deployments done. 
+"Our 5G deployment continues, although we continue to navigate workforce and permitting delays," former AT&T CEO Randall Stephenson said on the company's most recent 
+ before 
+. He said AT&T has "no intention of slowing down on 5G and fiber deployment and such, [but the] reality is that a lot of it is not in our control."
+This is why Ericsson has adjusted its expectations in terms of 5G subscriptions in North America for the rest of this year. The equipment maker predicts that 13 million people in North America will subscribe to 5G in 2020, down from its previous forecast for 16 million. 
+In terms of service, 
+, but it's a version that is only incrementally faster than 4G. AT&T is building out a similar wide-ranging 5G network, but it lags behind T-Mobile in reach. Verizon invested in super-fast but super-limited 5G in several markets, but it also plans a slower, wider-reaching network for the second half. 
+While the US 5G deployment is driven entirely by the private sector, China's 5G aspirations are driven by the government, including its Belt and Road Initiative, which is a strategy to increase its global power by building infrastructure abroad. The government is also investing in its 
+ initiative to transform its economy away from being a maker of  commodity goods into a supplier of high-tech products. This includes developing technology for everything from electric vehicles to 
+ and 
+ equipment. The end goal is to catch up to and potentially surpass rivals in the West.  
+The 
+ has largely viewed this strategy, which China is reluctant to discuss publicly now because of concern from other countries, as a threat to the US and global economies. 
+Government control plays out in several ways. For instance, wireless carriers in the US and China need to deploy a ton of equipment to deliver 5G. This translates into thousands of large cell towers and tens of thousands of small cell antennae that need to be deployed in local communities and cities. The Chinese government is able to use its authority to get this equipment installed. 
+But the US federal government doesn't have the same jurisdiction or control over cities and localities. This can slow the process of getting gear installed. The FCC has tried to 
+to pre-empt municipalities from potentially slowing the process. But those regulations are being 
+, and 
+ . 
+The Chinese government has also invested massive amounts of money in companies such as Huawei to develop 5G technology, to great success. Chinese companies hold the majority of the world's 5G patents. 
+And then there's the spectrum policy of the two countries. 
+Spectrum, or the radio airwaves used to wirelessly ferry everything from YouTube videos to emails, is the lifeblood of a cellular network. It's a highly valued asset, especially as demand for faster and more services increases.
+Early on the Chinese government made available a mixture of low and mid-band spectrum for 5G. Low-band spectrum, which are frequencies in the 600 megahertz, 800 MHz and 900 MHz bands, can transmit signals over longer distances, penetrate through walls of buildings and provide better indoor coverage. It's the same type of spectrum that powers T-Mobile and AT&T's longer range networks. 
+, which is in the 2.5 gigahertz and 3.5 GHz range of frequencies, provides more balanced coverage and capacity due to its ability to cover a several-mile radius with 5G, despite needing more cell sites than lower-tiered spectrum bands. 
+AT&T and Verizon didn't initially focus on these spectrum bands for 5G and instead i
+ -- extremely high-frequency radio airwaves that offer essentially a souped-up Wi-Fi hotspot. 
+Some critics fault the Federal Communications Commission for not moving quickly enough to get new licenses of mid-band spectrum for 5G into the US market. The agency is just now 
+ this month starting July 23, even as many countries in Europe have embraced mid-band spectrum. 
+"Too much time spent debating US spectrum policy may see the Chinese moving forward with their plans to build around sub-6 GHz mid-band spectrum that, in the long run, will present a host of technical challenges, including network and device interoperability, as well as data security concerns for US operators," Nicol Turner Lee, a fellow at Brookings Institution, said in a research note.
+There are a number of concerns. There's a financial cost if China were to dominate 5G. Because as we've seen with 4G, whichever country leads in the development and deployment of the latest technology will see more economic growth from that technology. And that translates not just into technological and economic power but also geopolitical power. 
+The next industrial revolution that will usher in artificial intelligence, big data and the internet of things will be highly dependent on 5G networks. A winner in 5G could potentially be a winner in these other areas and thus wield tremendous power and influence throughout the world. 
+And that could be a serious national security risk to the US. There are US officials who are already sounding the alarms regarding national security with respect to the Chinese telecom gear maker Huawei, which is the worldwide leader in 5G technology. 
+One of the biggest things the US has done is gone after China's Huawei. Trump and his administration have already banned the use of Huawei products and applications in national communications networks, amid accusations that the company has stolen secrets and is engaged in possible espionage for the Chinese government. The company has repeatedly denied these claims.
+Stiil, the company concedes it understands policy makers' cybersecurity concerns. But the company emphasizes these are concerns the US government should have with any major supplier of 5G equipment, including gear made from other suppliers such as Ericsson, Nokia and Samsung, all of which are also headquartered outside of the US. Huawei executives say there needs to be a comprehensive approach to protecting 5G communications networks.
+"We recognize that network security needs to be addressed for every operator and host country," said Don Morrissey, who heads up congressional and legislative affairs for Huawei. "And we've been advocating for national and global standards for third party testing to ensure the security of the supply chain. But from a cybersecurity perspective, it doesn't make sense to single out an individual company."
+The US government ratcheted up its pressure on Huawei last month when the Commerce Department 
+ that would essentially choke off Huawei's access to semiconductor chips it needs to build cellphones and 5G infrastructure. The new rules ban chipmakers, most of which are based in South Korea and Taiwan, from using US machines and software to manufacture semiconductors for Huawei. These rules close a loophole that allowed chipmakers to continue to sell to Huawei if their components and designs were manufactured outside the US. 
+Huawei is one of the biggest makers of 5G equipment, and its technology is also considered to be the most advanced. It's also the second largest 
+ maker behind Samsung.
+But national security experts also believe the company, which was founded in 1987 by a former officer of the Chinese People's Liberation Army, still has close ties to the Chinese government. And these experts, which include the directors of the CIA, the FBI and the National Security Agency, have testified before the US Congress stating they believe that Huawei could conduct "
+" if its gear was used in US networks using backdoors in its software, which could be used to spy on the US and its allies. 
+ has 
+ these claims and maintains it isn't an arm of the Chinese government. But US intelligence officials cite a Chinese National Intelligence Law that requires all companies to comply with Communist Party demands to turn over data. There's also been a long history of Chinese-government-backed hackers stealing intellectual property from Western companies. 
+This is exactly what the US Justice Department has accused Huawei of doing in a 
+, which alleges the company of embedded engineers in T-Mobile's facility in Bellevue, Washington, to steal equipment and trade secrets.   
+Again, the company has denied any wrongdoing.
+The US has also been pressuring other countries to ban Huawei, too.
+So far, only five other countries have followed the US in banning Huawei in their communications infrastructure: Japan, Taiwan, Vietnam, Australia and New Zealand. 
+Other US allies, such as France, Germany, Italy, the Netherlands and the UK, have said they plan to move forward with Huawei deployments but with some restrictions. The UK's decision in January to move forward with Huawei 
+, which had lobbied Britain to keep Huawei out of its network. 
+But now France and Britain, may be reconsidering.  Earlier this week, UK Prime Minister Boris Johnson 
+ and moving to further limit the Chinese telecom giant's role in building Britain's 5G network. There are also reports that France's national security agency is recommending French telcos avoid gear from the Chinese company, without banning the technology outright. 
+Other countries, such as India, have also indicated they may put limitations on the use of the company's gear in their 5G networks. 
+Yes, experts say there is a significant risk to the 5G supply chain, which could slow development of technology and deployment of products.  
+"In the end, public bullying by the Trump administration on the use of Huawei products may backfire without coordination with other competitors who make up the global 5G supply chain," Turner Lee said in her report. 
+What's more, the strategy could split the development of standards essentially setting up incompatible technology paths for 5G, much like what we saw in 3G. 
+And if Huawei is able to repeat what it did in 3G and 4G with 5G, it could come out on top. Huawei made a name for itself as a low-cost provider. If it's able to do that with 5G equipment, carriers using its gear in places like China will be able to deliver low-cost 5G service, which will continue to drive broader adoption. Having more experience dealing with the masses using 5G is invaluable to Chinese players contributing to future wireless standards, which help set the agenda for where the technology is headed. 
+Just look at the disparity in pricing. When Chinese wireless carriers first launched 5G in November service cost about $18 a month. That price has already dropped to about $10 a month for an entry level plan. Meanwhile, US operators, like Verizon, are charging $10 a month -- on top of its lower end plans -- to customers for 5G service. 

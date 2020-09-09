@@ -1,0 +1,34 @@
+Google Phone for Android helps root out spam calls. How to get it this week
+
+The free app for all Android phones will let you know who, and potentially why, a random number is calling.
+
+ users will soon get more help directly from their phone screen to 
+. 
+ 
+ this week that the company's Phone app will start using a new 
+ feature to tell you not only what business is calling you, but 
+they're calling. Knowing that an unknown number is really who it claims to be is designed to help keep you from falling into common schemes where crooks pose as legitimate businesses to swindle you for sensitive information or money.
+Google's move is the latest in an industry-wide effort by the federal government and private tech companies, including 
+, 
+ and a cohort of 
+ to reduce automated, spam and scam calls people receive on their phones, some of which break established 
+. In 2019, 
+, according to YouMail, a company that provides blocking services. 
+Verified Calls complements Google's earlier attempt to rein in robocalling through a 
+ that leans on Google Assistant to help identify calls. Below, we'll walk you through what we know about this new Verified Calls feature, and how to get it as soon as this week.
+An amped-up version of caller ID, the feature checks if a call is indeed originating from a participating business. When you receive an incoming call from a verified business, you'll see the business name, logo, a verification badge and a reason why the company is making the call -- as long as the business provides this. 
+For example, a restaurant delivery service can tell you the driver is lost or that your delivery has arrived. Or the call screen could explain that your airline needs to alert you of a change in flight time. Maybe your bank is calling to verify a large purchase or flag potential fraud. Seeing these reasons is designed to give you confidence in the legitimacy of the caller.
+Not all Android phone makers, like 
+, use Google's Phone app out of the box, opting instead for their own dialer. In order to take advantage of the new Verified Calls feature, you'll need to download Google Phone and set it as your default dialer. If you're not prompted to change defaults the first time you open the app, you'll need to go into
+ section of the settings app and choose it as your default.
+Some phone makers, like Google and 
+, use Google's app out of the box, while others don't. Here's the easiest way to find out if your phone uses the Google Phone dialer.
+Google's post isn't clear on what steps, if any, you'll need to take to start using the new feature, but at a minimum, I'd open the Phone app and tap on the menu button in the top-right corner, select 
+ > 
+ and turn on all of the options. If nothing else, Google will use Google Assistant to help screen calls and keep robocalls away in addition to verifying your incoming calls. 
+Verified Calls will work in the US, Mexico, Brazil, Spain and India to start. Google will add more countries in the future. 
+There's still a lot we don't know about Verified Calls, but rest assured, we'll start testing it as soon as we can, updating this post in the process. If you want additional help with getting rid of robocalls, 
+. Carriers are also 
+ and make features like Verified Calls more prevalent. If you're a 
+ customer, 
+.

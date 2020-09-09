@@ -1,0 +1,28 @@
+Security keys to thwart hackers are now easier to use on all your devices
+
+Security keys lock down your account. The new YubiKey 5C NFC works with USB-C ports on a laptop and phones' wireless NFC connection.
+
+Yubico on Wednesday released a new hardware security key, the $55 YubiKey 5C 
+, that brings new logon abilities to people who want a single key that works with their 
+ and 
+. It can plug into a USB-C port or link wirelessly with NFC (near-field communications) for what's considered one of the strongest forms of authentication today.
+Sweden-based Yubico is the top seller of hardware security keys, small devices typically are paired with a second form of authentication like a password for 
+, 
+, Facebook and Twitter to thwart hackers. And paired with biometric information like fingerprint or face recognition, 
+.
+But a hassle today has been that there's often no universal key, so people had to carry or store different ones for different devices. Laptops like 
+ only have USB-C ports, so old-style USB-A Yubikeys need an adapter, while 
+ only have a Lightning port, for example. That meant more electronic doo-dads to buy, carry, register with websites and worry about losing.
+"The 
+ has been our most popular product request," a company spokesperson said of the new model.
+Passwords are widely used but deeply flawed. People reuse the same passwords, which means that a hacker who gets a password for one website sometimes can break into others. And plenty of passwords are cracked already. The HaveIBeenPwned database contains more than 
+ and other security problems.
+ can help you create and use strong, unique passwords, but it can be 
+.
+SMS codes and authenticator apps that generate short-lived numeric login code help a lot, but also have weaknesses. Hardware security keys aren't perfect, either, but they help thwart hackers who don't have access to the physical device. Google has built hardware security key technology directly into Android phones, letting you dump the hardware security key altogether, but so far the technology isn't widely supported beyond Google itself.
+Hardware security keys have drawbacks of their own, though. It can be a hassle to register them at websites. They can be costly, especially if you want spares at home, work, on your keychain and in a safety deposit box. Though a single key can be used to log on to several sites, you have to register each key separately, so if you use four keys at three services, that's twelve trips through registration processes.
+Hardware security key technology works with authentication technology called 
+, that standardizes how stronger login works. 
+, the company said in April, with shipments growing about 60% to 70% annually.
+The increase in remote working triggered by the 
+, particularly for federal government employees, has let to a "major" boost in sales, the company said.

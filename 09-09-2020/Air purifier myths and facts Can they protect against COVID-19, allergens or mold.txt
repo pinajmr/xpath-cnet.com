@@ -1,0 +1,34 @@
+Air purifier myths and facts: Can they protect against COVID-19, allergens or mold?
+
+We talked to experts to get the best advice on what air purifiers can (and can't) do.
+
+COVID-19 continues to worry people all over the world -- and especially in the United States, where the death toll is approaching 200,000. As we adapt to new ways of life, new questions constantly arise. 
+? 
+? Could air purifiers be another solution?
+To answer that last question, we spoke to a number of air quality experts. We asked whether air purifiers can solve -- or at least mitigate -- some of our air quality concerns, whether we're talking 
+ virions floating in aerosol droplets around our house, or more mundane irritants like pollen or pollutants such as wildfire smoke and smog.
+After 
+, talking to specialists and reading dozens of studies on the topic, we arrived at a few answers.
+For those of you who already want an air purifier, and want the bottom-line recommendations, I've already written 
+ addressing this exact question. There are plenty of air cleaners on the market, and some of them really are impressively effective given their reasonable price tags.
+For those still on the fence, keep reading.
+This is one of the most popular questions online, and it's also a reminder of why close reading and skepticism are such useful tools when you're researching products as a consumer. Air purifier developers are not allowed to advertise their devices as health products in the United States for a few reasons -- most fundamentally because their benefits aren't straightforward. Instead of claiming incredible health outcomes, then, purifier advertisements usually focus on the number of harmful substances in the air and the effectiveness with which the devices filter them out.
+To answer the question in the most basic terms: yes, air purifiers generally filter particulate out of the air effectively -- especially if they use a HEPA filter (more on those in the next section). But most of us already have a mechanism to filter the air effectively: the respiratory system. As microbiologist and Vice President of Scientific Communications at the American Council on Science and Health Dr. Alex Berezow pointed out in 
+, "Living within the tiny air sacs in your lungs (called alveoli) are immune cells known as macrophages. These "big eaters" gobble up bacteria, viruses, fungi, and whatever other debris happens to find its way into the lungs."
+In short, air purifiers work, but unless you live in a particularly polluted environment or you or your children are immuno-compromised, you probably don't need one.
+HEPA, which stands for high-efficiency particulate air, is the standard that describes most air purifier filters currently sold in the US. To meet the standard, a filter must remove 99.97% of particles in the air that are 0.3 micrometers in size (a particularly difficult size to filter). HEPA filters are usually more effective with particles larger and smaller than that size. Pollen, smoke particulate and aerosol droplets that can transmit COVID can all be filtered out of the air with such a filter.
+That said, don't count on air purifiers to protect you if you're cohabitating with a contagious person. When I talked on the phone with Dr. Richard Shaughnessy, the director of Indoor Air Research University of Tulsa, he said transmission of COVID usually happens due to close contact with an infected person. If you're sitting on a couch and chatting with someone who is infected, an air purifier across the room isn't going to remove all the harmful particles they exhale before they have a chance to reach you.
+An additional problem is the difference between capturing and killing virus particles. While HEPA filters will capture the particles, other technology, such as UV tech, will kill virions. Unfortunately, such technology often comes with 
+.
+Ozone is a type of pollutant that a narrow set of air purifiers has been found to emit in the past. Before we dive into that, it's helpful to understand the basic types of air purifiers on the market 
+.
+The three most popular filtration methods air purifiers use to clean the air are these: HEPA devices remove particles by ushering air through a specially designed and standardized filter; activated carbon filters remove odors and gaseous pollutants by running air across "sorbent media," which traps it; and finally, ionic purifiers produce ions that attach themselves to particles.
+Ionic purifiers work in a couple of ways. Some simply let ionized particles attach to surfaces around the house (thereby "removing" them from the air). Others have a plate that collects those ionized particles and needs frequent cleaning. The latter are the devices that have in the past had problems with producing ozone. Luckily, standards have risen over recent years and 
+ to make sure they're not releasing significant ozone into the home.
+Generally, I would avoid ionic air purifiers simply because they're not the most effective for the price. If you really want one, check to make sure it has a certification from Underwriters Laboratories or the California EPA, stating that it does not emit ozone.
+The research here is a little complicated. Without getting too far into the weeds, one of the clearest demographics that benefits from HEPA-filter air cleaners is children with asthma. Dr. Elizabeth Matsui, a professor of population health and pediatrics at the University of Austin's Dell Medical School, has researched the use of air purifiers in the homes of asthmatic children and told me about the value of air cleaners in such households.
+Air purifiers, she cautioned, are not a replacement for what she calls "proximal source interventions." For instance, a HEPA air cleaner can reduce particulate matter in the home of a smoker and child with asthma by 25%-50%. But that's not the best solution: ideally, the person should stop smoking in the house altogether. A clean and well-ventilated environment -- and of course proper medical care -- is far more important than an expensive air cleaner.
+And to be clear, while air purifiers can help mitigate symptoms of childhood asthma, Dr. Matsui says, "There's not good evidence that we can currently modify the environment in a way that 
+ 
+, whether that's by air purifiers or any other means." In other words, air purifiers are helpful devices for children who suffer from asthma, but they won't reduce the chances of a child developing asthma in the first place.
+If you have any other questions I haven't answered above, make sure to ask them in the comments, and I'll be happy to update the article with answers.

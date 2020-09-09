@@ -1,0 +1,6 @@
+Tags 9/9/2020
+
+Links = //h3/a/@href
+Title = //h1/text()
+Summary = //div[@class ="c-head"]//p/text()
+Body = //div[@class ="col-7 article-main-body row "]/p/text()

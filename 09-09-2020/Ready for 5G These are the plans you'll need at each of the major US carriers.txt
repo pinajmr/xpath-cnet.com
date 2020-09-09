@@ -1,0 +1,52 @@
+Ready for 5G? These are the plans you'll need at each of the major US carriers
+
+5G is here, but if you want to make the most of it you'll need to have the right plan.
+
+As the fall phone season picks up, 
+ is expected to play a major role for carriers and device-makers looking to get people to upgrade. With low-band 5G service now deployed nationwide by 
+ and 
+, and with 
+ promising its own nationwide low-band 5G network this year, 2020 marks the first time all three carriers will have next-generation networks widely available. 
+But getting onto 5G requires more than just a compatible phone. For some carriers you also need to have the right plan. 
+Before you upgrade, here's what you need to know for getting 5G on each of the three major US carriers. 
+With 5G, there are three big flavors of wireless airwaves to know about: low-band, midband and millimeter-wave. 
+Low-band 5G offers the best coverage and provides the foundation for 5G, though speeds are often not much better than a good 
+ signal. 
+Millimeter-wave is a higher-frequency version of 5G, offering speeds that can easily top 1 gigabit per second. The problem with millimeter-wave, however, is range. It is often only available on particular blocks of certain cities, doesn't work indoors and can be impeded by leaves, glass and even a hand between your phone and the transmitter. 
+Midband is, as its name implies, the middle ground between the two. It offers much faster speed than low-band while offering much better coverage than millimeter-wave, including the ability to work indoors. 
+This is largely available only on T-Mobile right now thanks to its Sprint merger. AT&T and Verizon expected to add midband 5G in the future, with both expected to be active bidders in a Federal Communications Commission auction for more of this valuable spectrum. 
+ 
+To tap into 5G on AT&T you'll need to make sure you're on 
+ known as Unlimited Starter, Unlimited Extra and Unlimited Elite. All include unlimited talk, text and data in the US, Mexico and Canada. 
+For four lines, pricing for Starter begins at $140 a month ($35 a line) but this doesn't include any mobile hotspot and data can be slowed when the network is congested.
+The next step up, Extra, is $160 a month ($40 a line). This plan includes 50GB of high-speed data per line per month before it would be slowed and adds 15GB of high-speed data per line for using your phone as a mobile hotspot. (After 15GB speeds drop to a painfully slow, 2G-like 128 kilobits per second.)
+The top plan, Elite, runs $200 a month for four lines ($50 a line). It offers free 
+, allows for streaming videos in HD, 100GB of data before you'd be slowed and 30GB of high-speed mobile hotspot data for each line (after which it's slowed at that 2G level). 
+AT&T's plans allow for accessing its low-band 5G network that is available nationwide as well as its faster, higher frequency millimeter-wave network (what it calls "5G Plus") that's currently available in parts of 35 cities around the country. Its low-band network currently covers over 205 million people. 
+If you have an older plan, even one that is unlimited, you'll be limited to 4G LTE even if you have a 5G device. Oh, and because things are never simple, AT&T calls its 4G LTE network "5G E." Don't be confused: If you see 5G E know that it's not real 5G. 
+When it comes to 5G, T-Mobile's story is much simpler. Any plan, including those of 
+ users, will be able to connect to 5G if you have a 5G device. This also includes both unlimited plans and older ones that have monthly data allotments. 
+Of T-Mobile's current plans, a recent promotion takes the cheapest Essentials plan 
+ ($25 a line). You get unlimited talk, text, data but mobile hotspot is capped at "max 3G speeds" (which has in the past meant a still-weak 512Kbps). 
+Unlike some other T-Mobile plans, taxes and fees aren't included here and you also don't get perks like free 
+, international data outside of Mexico and Canada or HD streaming. This deal also requires at least four lines but no more than six. 
+The regular Essentials plan, which is virtually identical, is slightly pricier at $120 a month for four lines ($30 a month), but this version of Essentials doesn't require between four and six lines. 
+There are two step-up plans as well, known as Magenta and Magenta Plus. The former, which currently runs $140 a month for four lines ($35 a line) includes taxes and fees in the monthly price, 3GB of 4G LTE hotspot data for each line, a free subscription to Netflix Basic (Netflix's cheapest plan that doesn't stream videos in HD) or Quibi as well as international data in over 210 countries. 
+T-Mobile's top-of-the-range Magenta Plus plan runs $170 a month for four lines ($43 a line) with taxes and fees already factored into the price. Other perks include Netflix's Standard plan that has HD streaming or free Quibi, 20GB of 4G LTE hotspot data per line, and slightly faster international data. It also allows you to stream videos in HD over a cellular connection. 
+When it comes to the next generation networks, T-Mobile is actually the furthest along in the US. It was the first to a nationwide 5G network over the low-band spectrum last December, which it 
+. 
+After acquiring Sprint's 2.5 GHz midband spectrum when it closed its merger this year, the carrier has begun deploying midband 5G across the country, with plans to have 
+  
+The carrier also has millimeter-wave 5G, though it has yet to expand this flavor beyond the 
+. 
+Whereas AT&T limits 5G just to its newest unlimited plans and T-Mobile lets any plan tap into 5G, Verizon is somewhere in the middle ground when it comes to plans. 
+The company recently announced that any plan will 
+ when it launches later this year. This includes older unlimited plans and those with monthly data allotments. 
+Those who want the full Verizon 5G experience with millimeter-wave, however, will need to have one of the carrier's top unlimited plans known as Do More, Get More or Play More. 
+The good news is that Verizon allows you to choose which plan each individual line is on (what it calls "Mix and Match") as opposed to mandating that everyone be on the same plan. For the purposes of keeping the pricing simple, we're going to look at the cost as if each line is the same plan. 
+The Start plan offers four lines for $140. While it has low-band 5G, it lacks access to the millimeter-wave network. It also does not offer any mobile hotspot and data in Canada and Mexico is capped at "2G speeds."
+The step-up Play More plan would run $180 for four lines. This plan includes both flavors of Verizon 5G as well as: 50GB of high-speed 4G LTE data; 15GB for each line of 4G LTE data for mobile hotspot, HD streaming over a cellular connection and a free subscription to the Disney Bundle that includes Disney Plus, ESPN Plus and Hulu. 
+The plan also includes unlimited talk, text and data in Canada and Mexico, though data here is all capped at "2G speeds." 
+The Do More plan is priced at the same $180 for four lines, with the big difference being the dropping of the Disney Bundle for a discount of 50% the monthly service charge for a connected hotspot, tablet or smartwatch. 
+The Get More is a combination of both Play More and Do More, with four lines running $220 a month. It offers all the perks of both plans -- including the discount on a connected device and the Disney Bundle -- but bumps up the 4G LTE hotspot data to 30GB a month, per line. It also offers a free subscription to Apple Music. 
+The carrier's older, top unlimited plans -- known as Above Unlimited and Beyond Unlimited -- also include access to both the low-band 5G and millimeter-wave 5G networks. 

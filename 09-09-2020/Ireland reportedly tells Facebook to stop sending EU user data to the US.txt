@@ -1,0 +1,18 @@
+Ireland reportedly tells Facebook to stop sending EU user data to the US
+
+t follows a legal decision by the Court of Justice of the European Union in July on privacy standards.
+
+The 
+. The order was sent in late August, The Wall Street Journal reported Wednesday citing unnamed sources. 
+ into its data transfers from the EU to the US.
+It follows a 
+ because the EU has stricter privacy laws than the US -- and because the United States government could be collecting EU citizens' data under its surveillance laws. This is a major privacy concern for EU companies and residents.
+The decision by the Court of Justice of the European Union invalidated the EU-US Privacy Shield, which permitted companies to send EU citizens' data to the US. Following this decision, Facebook has been "setting out our position on how to secure the long-term stability of international data transfers," according to Nick Clegg, Facebook VP of Global Affairs and Communications.
+"A lack of safe, secure and legal international data transfers would damage the economy and hamper the growth of data-driven businesses in the EU, just as we seek a recovery from 
+," Clegg said in a privacy statement Wednesday. He said it could mean tech companies, hospitals and universities in Europe cannot use US cloud providers or call centers outside of the EU. "The effects would reach beyond the business world, and could impact critical public services such as health and education."
+The Irish DPC declined to comment.
+The EU court's decision came after Austrian privacy activist Maximilian Schrems argued against the Privacy Shield in 2019, arguing that his Facebook data was being transferred to the US where government surveillance programs could access it.
+US Secretary of Commerce Wilbur Ross in July said he was "deeply disappointed" with the decision.
+"Data flows are essential not just to tech companies, but to businesses of all sizes in every sector," Ross said. "As our economies continue their post-COVID-19 recovery, it is critical that companies -- including the 5,300-plus current Privacy Shield participants -- be able to transfer data without interruption, consistent with the strong protections offered by Privacy Shield."
+Schrems also successfully challenged the 
+.

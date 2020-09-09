@@ -1,0 +1,23 @@
+Verizon unveils a new 5G hotspot for $400
+
+The device supports more 5G spectrum bands and can connect up to 30 devices.
+
+ for homes and businesses. The 
+ straight up, or $16.66 per month for 24 months. The 
+ by comparison. The new device has a better screen and can support low-band spectrum that's coming soon in addition to the high-band 5G spectrum supported by both.
+Verizon's new 5G hotspot can connect up to 30 devices via Wi-Fi 6, and 
+. With a direct tether to the modem using its USB-C port, you can get access to the 5G network on your phone, tablet or laptop. 
+The hotspot is powered by a 
+ Snapdragon X55 5G modem and comes with a 3500mAh battery, if you want to take it on the go with you. A separate 8500mAh battery will be available later this year. The MiFi M2100 has a 2.4-inch touchscreen display.
+The three major US carriers are each using different radio waves for their 5G networks. Verizon uses high-band millimeter-wave 5G spectrum, which is limited to 
+ by solid obstacles like buildings and trees. 
+ uses 850MHz spectrum for its low-band 5G network, which has 
+, while 
+ also uses low-band 600MHz spectrum but is now also 
+ since the carrier's 
+ went through in April.
+AT&T and Verizon will also be employing a new technology called Dynamic Spectrum Sharing to 
+, with 
+. Midband spectrum is faster than low-band, and travels further than high-band.
+Verizon's 5G network is only available in certain parts of 35 cities -- you can check out 
+. But with the new modem supporting both mmWave spectrum and low-band spectrum, Verizon is future proofing its offering by allowing you to get 5G in more places.

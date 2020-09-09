@@ -1,0 +1,14 @@
+Coronavirus: How to track the spread across the world as deaths top 200,000
+
+An online dashboard shows all confirmed, suspected and recovered coronavirus patients, as well as deaths.
+
+The deadly 
+ continues to spread across the globe, and you can use an 
+ with all reported cases. The John Hopkins University and Medicine Center for Systems Science and Engineering built a tool pulling in data from the World Health Organization, as well as the centers for disease control in the US, China and Europe and governments across the globe. It shows all confirmed, suspected, recovered and deceased coronavirus patients, as well as how many people have been tested.
+ and 
+ as of 2:00 p.m. PT on April 27, according to the dashboard.
+The 10 countries with the 
+ with 985,000; Spain with 229,000; Italy with 199,000; France with 165,000; Germany with 158,000; the UK with 158,000; Turkey with 112,000; Iran with 91,000; Russia with 87,000; and mainland China with 83,000. The dashboard shows the virus has spread to 185 countries.
+The US has the highest death toll, at over 55,000. Around 5.4 million people in the US have been tested. Italy has reported 26,000 fatalities; Spain 23,000; France 23,000; the UK 21,000; Belgium 7,200; Iran 5,800; Germany 6,000; and China 4,600 fatalities.
+The outbreak was first reported to the World Health Organization on Dec. 31, 2019, with 
+ that include the severe acute respiratory syndrome (SARS) and the Middle East respiratory syndrome (MERS).

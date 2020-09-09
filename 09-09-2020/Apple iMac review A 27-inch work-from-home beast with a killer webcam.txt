@@ -1,0 +1,35 @@
+Apple iMac review: A 27-inch work-from-home beast with a killer webcam
+
+A much-improved webcam will make you a Zoom meeting boss, but the anti-glare nano-texture screen is an extra $500.
+
+Apple's big summer surprise was 
+. It wasn't a new Mac Mini, nor the return of the 12-inch MacBook. The biggest hardware news from the company right now is 
+. Yes, it looks the same as 
+, and the one before that, and so on. It even keeps the same starting prices as before, with base models at 
+, 
+ and 
+. (UK and Australian prices start at 
+ or 
+.)  
+That doesn't mean there aren't some significant changes. As expected, you can get newer and higher-end CPU and GPU choices, and further expand both the RAM and storage. But the real standouts to me are the improved webcam, updating one of the oldest, most-ignored pieces of computer tech, and the option to add the same nano-texture screen coating as offered in the 
+.   
+I've been using the new iMac for the past couple of weeks, and after (many) years of working almost exclusively from laptops, especially at home, I'm already spoiled by the big screen. At another time, during another crisis, I may not have been so open to a desk-hogging all-in-one computer. But as I'm unable to travel to and from my office or work from coffee shops, I may as well enjoy some of the benefits that come from a desktop -- namely the big screen.   
+No, you can't easily carry it from room to room like a laptop -- although I've lugged the iMac around my apartment many times for prime photo and video backdrops -- and Apple's external mouse-and-keyboard combo isn't my favorite. But it's also inspired me to expand my home office (i.e., a small corner of my bedroom) and start building a new 8-foot-long reclaimed wood work desk. More on that in a future story...   
+  
+Despite an overly familiar look, almost everything under the shell is new, making this one of the most comprehensive Mac makeovers 
+. For students, it may be remote learning overkill, but for creative pros trying to rebuild a pro-level studio at home, there's a lot of new spec options to consider.   
+Those new specs include 10th-gen Intel CPUs (up to a 10-core Core i9!) and even newer AMD Radeon 5000-series graphics cards. RAM is now expandable to 128GB. SSDs are standard across the line (no more hybrid drives) with up to 8TB of storage, doubling the previous top capacity.  
+If you're editing 4K or 8K video or high-resolution photos, or working in CAD programs, you probably already know if you need an upgrade like that. Working from home has me shooting (and sometimes editing) 4K video, so I'm using it more and more for that now.   
+ 
+Video calls have become the new norm, and now we're all turning into webcam experts. We've also discovered that even high-end machines such as the MacBook Pro (and previous iMacs) have webcams that are merely OK. Join the corporate masses in all-day, every-day Zoom (or Skype, WebEx and so on) meetings and all of a sudden these lower-res 720p cameras aren't doing us any favors. Six months ago, few of us gave much thought to webcam audio and video quality. Now it's an obsession that's 
+ on improving your virtual meeting presence.   
+The first day I turned on the new iMac, I immediately jumped into a Zoom call, then did a live TV hit and later recorded the video accompanying this article -- all from the built-in webcam. Normally, I capture video in 4K via a phone, and with an external mic. Since even the mics are upgraded here, using the same better-than-average set found on the excellent 16-inch MacBook Pro, I just used those.   
+The video quality was impressive for a computer webcam. The audio was ...ok. Good enough for a webcam call, but no really for a talking-head style video. I've gone back to hooking up my external Rode mic for video calls.   
+Using Apple's T2 chip, the company says the iMac webcam can also spot faces in the frame and optimize for them by adjusting exposure to flatter faces over backgrounds. With that kind of ability, I'd expect to have facial recognition login features (such as Face ID on the iPhone) or at least the ability to track faces and follow them. It doesn't do either of those things, but the improvement over a standard Mac webcam was immediately obvious. Until now, you had to get an iMac Pro for a 1080p FaceTime camera.   
+The speakers are physically unchanged since the 2014 version of the iMac, according to Apple. But new variable EQ software (non-user adjustable, however) adds some audio tweaks, especially at low volumes. Lots of computer-makers rely on software EQ systems to tweak audio: Actually putting bigger speakers in a computer requires a bigger computer, after all, and that's not the direction computer design generally goes in.   
+There's another high-end feature for the new iMac, but unlike the webcam and mics, it doesn't come standard on any of the base model 27-inch iMacs. For an additional $500, you can add the nano-texture glass option, designed to minimize screen glare. Having seen and used an 
+ without the nano-texture, and now seeing this new 27-inch iMac with the nano-texture, I'm sold. If you're making a big investment in a long-term work tool, it might be worth splurging on, much as it pains me to say that.   
+Unlike matte screen coatings, which can cause dull, washed-out images, the nano-texture is etched right into the glass (at the nanometer level, Apple says, hence the name).   
+I live (and now work) in an apartment that gets a lot of afternoon sun from its 8-foot-tall westward-facing windows, so I know all about screen glare. I'm always moving out of the way of the light, and my TV is unwatchable for a big chunk of the day because of it. The matte-like nano-texture screen, however, was nearly glare-proof. At extreme angles, I still caught some reflection, but it's a big improvement over what I'm used to.   
+One of the shortcomings of our remote working environment is the inability to collaborate with my colleagues in person. Normally, I'd defer to our display expert, Lori Grunin, for a deeper dive into how the nano-texture affects color accuracy and the differences between something like this and the stand-alone Pro Display XDR (currently priced between $4,999 and $5,999, stand not included). In the meantime, I'll say that it's a marked improvement over other screens I've used with anti-glare coatings or matte finishes.   
+This review unit is a fairly tricked-out build -- it works out to $4,499 -- so in the charts below, I've compared it to some recent high-end Windows PCs, including the similarly priced Corsair One Pro, which reminded me of my one lingering regret about the new iMac and its big screen -- no matter how powerful, it's still never going to be a gaming machine...   

@@ -1,0 +1,22 @@
+Why Verizon thinks 5G is still relevant during the coronavirus lockdown
+
+If people are stuck at home, what's the point of a speedy internet connection on the go?
+
+The 
+ has shut down our economy, forcing us to stay at home. Tens of millions 
+, and everyone faces the uncertainty that comes with the inevitable fallout from the pandemic, which has 
+. It's in this environment that carriers like 
+ are pushing 
+ service. 
+This year was supposed to be the year of 
+. But the next-generation technology, found in pricier 
+ and premium phone plans, feels a little out of place given the economic uncertainty and the fact that getting 5G speeds on the go doesn't matter as much if you're stuck at home.
+"We plan, plan, plan -- all of a sudden, nobody saw this coming," said Kyle Malady, chief technology officer of Verizon. 
+Malady joined CNET to discuss the company's 5G rollout and to talk about what the company has been doing to help during the pandemic. You can hear him speak on the Daily Charge podcast, broken up into two parts. In the first part, Malady spoke about the state of the carrier's 5G deployment, including getting nationwide coverage up and running sometime in the second half (he wouldn't offer a specific launch date).  
+He also talked about the work Verizon did to wire up dense metro areas and several stadiums -- which are now empty. 
+But Malady said demand for 5G devices continues to look good, with interest from early adopters. And though things are grim now, the company is working on applications that take advantage of the capabilities of 5G over the long term. 
+"We don't believe COVID will last forever," he said. "There are other opportunities we see where 5G can move things further." 
+Malady talked about telehealth, and working with one company to use 5G to enable machine learning models that would produce real-time medical data in an operating room. A lot of those computations are done in the hospital, usually in a server room in the basement that's expensive to maintain and more likely to break down. 
+"If you can take that away and run them in the cloud, that's good for everyone," he said. 
+For consumers, Malady looked at the spike in demand for better home internet service, which he sees as an opportunity for Verizon's 5G-based home service. Unfortunately, the carrier's Verizon Home 5G 
+, with plans to launch in 10 markets by year's end. 

@@ -1,0 +1,40 @@
+Windows 10 is still free to download. Here's how to get the upgrade now
+
+RIP Windows 7. If you haven't upgraded yet to Windows 10, follow these simple steps.
+
+Support for Windows 7 ended in January, which means Microsoft wants holdouts to 
+ to keep devices running securely and smoothly. If you have an older PC or laptop still running Windows 7, you can purchase the 
+ on Microsoft's website for $139. But you don't necessarily have to shell out the cash: A free upgrade offer from Microsoft that technically ended in 2016 still works for many people. And if you find yourself spending more time at home on your computer due to the 
+ pandemic, it may be a good time to try it out for yourself. 
+When Windows 10 was first released in July 2015, Microsoft offered an unprecedented 
+ users, good through July 2016. But in 2017, Ed Bott of CNET sister site ZDNet reported that the 
+. I tried it out in November 2019, and was able to upgrade a 2014 Dell OptiPlex 9020 desktop from Windows 7 Pro to Windows 10 Pro. As of August 2020, readers are still emailing me and commenting below, saying that it's worked for them as well.
+ 
+Windows 7 users who don't upgrade to the new version will no longer be able to get Microsoft's security updates or fixes, or technical support for any issues, leaving your computer at greater risk from viruses and malware. While Windows 10 users have experienced a 
+ over the years, upgrading remains the best option for 
+, analysts say. And more people seem to be making the move: Windows 10 now has more than 
+ worldwide, Microsoft reported in March. 
+Here's how to get Windows 10 for free, if you're currently running a licensed and activated copy of Windows 7, Windows 8 or Windows 8.1 Home or Pro:  
+Go to the 
+.  
+Under 
+, click 
+ and 
+.  
+Choose 
+, assuming this is the only PC you're upgrading. (If you're upgrading a different machine, choose 
+, and save the installation files.) 
+Follow the prompts.  
+ When the upgrade is complete, go to 
+, and you should see a digital license for Windows 10.  
+ 
+It should be noted that if you have a Windows 7 or 8 Home license, you can only update to Windows 10 Home, while Windows 7 or 8 Pro can only be updated to Windows 10 Pro. (The upgrade is not available for Windows Enterprise. Other users 
+, depending on your machine.) This upgrade using the media creation tool isn't meant for the general consumer, but it works for many nonetheless. 
+To get the best Windows 10 experience and take advantage of features like passwordless sign-on through 
+, you'll want to purchase a new Windows 10 PC (or one released after July 2015) with all the hardware upgrades. If you're a student or university faculty member, you may also be able to download Windows 10 for free (
+).  
+For more, check out 
+, 
+ and 
+. You can also 
+, too.
